@@ -3,7 +3,7 @@
 ## 🏏 Introduction
 The Indian Premier League (IPL) has evolved into one of the most exciting and competitive T20 leagues in the world. Since its inception in 2008, it has witnessed intense rivalries, exceptional individual performances, and historic moments that have shaped the landscape of modern cricket. This project, **IPL Data Analysis (2008-2024)**, is an attempt to systematically explore and analyze IPL data spanning across multiple seasons to extract meaningful insights. Through this project, we aim to uncover hidden patterns, trends, and significant statistics that help us better understand the dynamics of the tournament.
 
-## 📖 Project Overview
+## 📚 Project Overview
 The primary objective of this project is to conduct an in-depth analysis of IPL matches, player performances, team trends, and venue impact. By thoroughly examining historical data, we can gain a deeper perspective on how different factors influence match outcomes. From understanding the impact of winning the toss to evaluating the importance of home-ground advantage, this project covers multiple dimensions of the IPL ecosystem.
 
 The study includes:
@@ -20,7 +20,31 @@ Cricket, especially in the T20 format, is influenced by numerous variables such 
 - **Fan Engagement**: Enthusiasts and analysts can leverage statistics to gain a better understanding of the game.
 - **Historical Comparison**: Understanding how different IPL editions have unfolded and identifying patterns of dominance.
 
-## 📊 Analytical Approach
+### 📍Our Dashboard Home Page will Look Like this:🌄
+![image](https://github.com/gauravlakshakar/IPL-Data-Analysis-2008---2024-/blob/main/IPL%20HOME.png)
+
+### 📍Main Dashboard will look like this: ❄️🥀
+![image](https://github.com/gauravlakshakar/IPL-Data-Analysis-2008---2024-/blob/main/IPL%20DASHBOARD.PNG)
+
+## 📊 Dashboard Overview
+Our IPL Data Analysis dashboard provides a user-friendly interface to explore key insights through interactive visualizations and filters. 
+
+### Dashboard Features:
+- **Cards:**
+  - Total Runs
+  - Total Extra Balls
+- **Slicers (Filters):**
+  - Player Selection
+  - Team Selection
+- **Visualizations:**
+  - **Non-striker by batter (Line Chart)** - Shows how different batters perform as non-strikers.
+  - **Player dismissed by fielder (Bar Chart)** - Displays which fielders are responsible for the most dismissals.
+  - **Bowler keys by dismissal kind (Column Chart)** - Analyzes how different bowlers get their wickets.
+  - **Total balls by team (Donut Chart)** - Represents the distribution of balls faced by each team.
+  - **Overs by extra types (Scatter Plot)** - Examines the distribution of extra runs conceded in different overs.
+  - **Count of innings by player (Tree Map)** - Highlights the frequency of innings played by different players.
+
+## 💡 Analytical Approach
 This project follows a structured approach to data exploration, which includes:
 1. **Data Collection and Cleaning** - Ensuring accurate and comprehensive datasets are used for analysis.
 2. **Exploratory Data Analysis (EDA)** - Extracting meaningful patterns and trends from raw data.
