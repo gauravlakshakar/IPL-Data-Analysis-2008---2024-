@@ -35,9 +35,6 @@ Cricket, especially T20, is shaped by numerous factors like player form, pitch c
 
 ---
 
-### 📍Our Dashboard Home Page will Look Like this:🌄
-![image](https://github.com/gauravlakshakar/IPL-Data-Analysis-2008---2024-/blob/main/IPL%20HOME.png)
-
 ### 📍Main Dashboard will look like this: ❄️🥀
 ![image](https://github.com/gauravlakshakar/IPL-Data-Analysis-2008---2024-/blob/main/IPL%20DASHBOARD.PNG)
 
